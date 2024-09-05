@@ -11,10 +11,7 @@ I'm using a variety of resources to build a strong foundation in Microsoft Azure
 
 ## 🛠️ What you'll find in this repository:
 
-1. **Notes**: Detailed notes on various Azure topics.
-2. **Exercises**: Hands-on practice exercises from the courses.
-3. **Cheat Sheets**: Quick reference guides for Azure services.
-4. **Study Plan**: A structured plan to track my progress towards certification.
+**Notes**: Detailed notes on various Azure topics.
 
 ## 🎉 Credits
 
