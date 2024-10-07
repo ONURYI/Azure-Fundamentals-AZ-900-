@@ -18,6 +18,6 @@ I'm using a variety of resources to build a strong foundation in Microsoft Azure
 Special thanks to:
 
 - **[Datacamp](https://www.datacamp.com/)** for their fantastic interactive learning platform.
-- **[Microsoft Azure Fundamentals Certification Course](https://www.youtube.com/watch?v=5abffC-K40c&t=7693s)** for the comprehensive YouTube video tutorial.
+- **[Microsoft Azure Fundamentals Certification Course](https://[www.youtube.com/watch?v=5abffC-K40c&t=7693s](https://www.youtube.com/watch?v=8n-kWJetQRk))** for the comprehensive YouTube video tutorial.
 
 Let's embark on this Azure adventure! 🌟
