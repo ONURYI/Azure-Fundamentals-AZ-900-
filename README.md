@@ -9,7 +9,7 @@ I'm using a variety of resources to build a strong foundation in Microsoft Azure
 - **Datacamp**: A great platform for hands-on learning and guided courses on Azure Fundamentals.
 - **Azure Fundamentals Course**: Following the official **Microsoft Azure Fundamentals Certification Course (AZ-900)** on [YouTube](https://www.youtube.com/watch?v=8n-kWJetQRk). 🎥
 - **Handwritten Notes**: You can also find my handwritten notes on key Azure topics in this repository.
-- **Quiz**: Test your knowledge with this **[Azure Fundamentals Quiz](#)**.
+- **Quiz**: Test your knowledge with this **[Azure Fundamentals Quiz](https://insidethemicrosoftcloud.com/az900quiz/)**.
 
 ## 🛠️ What you'll find in this repository:
 
